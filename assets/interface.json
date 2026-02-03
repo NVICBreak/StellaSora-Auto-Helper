@@ -328,6 +328,7 @@
                                     "expected": [
                                         "新岁开门阵I",
                                         "新歲開門陣I",
+										"New Year's Opening I",
                                         "開門の陣I"
                                     ]
                                 },
@@ -346,6 +347,7 @@
                                     "expected": [
                                         "新岁开门阵Ⅱ",
                                         "新歲開門陣Ⅱ",
+										"New Year's Opening Ⅱ",
                                         "開門の陣Ⅱ"
                                     ]
                                 },
@@ -364,6 +366,7 @@
                                     "expected": [
                                         "新岁开门阵Ⅲ",
                                         "新歲開門陣Ⅲ",
+										"New Year's Opening Ⅲ",
                                         "開門の陣Ⅲ"
                                     ]
                                 },
@@ -382,6 +385,7 @@
                                     "expected": [
                                         "汪旺巡逻队I",
                                         "汪旺巡邏隊I",
+										"Dog Patrol Squad I",
                                         "巡回隊I"
                                     ]
                                 },
@@ -400,6 +404,7 @@
                                     "expected": [
                                         "守岁保卫战I",
                                         "守歲保衛戰I",
+										"Evelong Defense I",
                                         "蒼梧城攻防戦I"
                                     ]
                                 },
@@ -418,6 +423,7 @@
                                     "expected": [
                                         "守岁保卫战Ⅱ",
                                         "守歲保衛戰Ⅱ",
+										"Evelong Defense Ⅱ",
                                         "蒼梧城攻防戦Ⅱ"
                                     ]
                                 },
@@ -436,6 +442,7 @@
                                     "expected": [
                                         "汪旺巡逻队Ⅱ",
                                         "汪旺巡邏隊Ⅱ",
+										"Dog Patrol Squad Ⅱ",
                                         "巡回隊Ⅱ"
                                     ]
                                 },
@@ -454,6 +461,7 @@
                                     "expected": [
                                         "福到闹团圆I",
                                         "福到鬧團圓I",
+										"Blessings Abound I",
                                         "笑門来福大乱闘I"
                                     ]
                                 },
